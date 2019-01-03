@@ -20,3 +20,4 @@ You can modify it
 
 如果有别的要求可以按需修改model-mixin and utils
 
+![](https://github.com/279zlj/sketch/blob/master/index-model.jpg)
